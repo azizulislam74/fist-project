@@ -5,3 +5,112 @@
 .logo {
     background-color: black;
 }
+
+.img {
+    width: 150px;
+}
+.nav-bar { 
+    background-color: rgb(51, 36, 36);
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    padding: 15px 15%;
+
+    
+}
+
+.item {
+    color: white;
+    display: flex;
+    list-style: none;
+
+}
+
+.link {
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 200;
+    margin: 0px 50px;
+}
+
+.img-two {
+    width: 350px;
+
+}
+.main-contain {
+    display: flex;
+    height: 100vh;
+    background-color: rgb(100, 91, 91);
+    background-image: url(/images/background.png);
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 15%;
+
+    
+}
+
+.discirition{
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+p { 
+    color: white;
+    padding-bottom: 15px;
+}
+.one {
+    margin-right: 25px;
+}
+
+.btn {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+.continar-two{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 15%;
+    padding: 50px 0px;
+    
+}
+.banner {
+    width: 350px;
+}
+
+.lorem {
+    color: rgb(0, 0, 0);
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.footer-item{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.heading-two{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+.item-img {
+    width: 150px;
+}
+.footer-section {
+    background-color: rgb(51, 49, 49);
+}
+.item-one{
+    width: 25%;
+    height: 250px;
+}
