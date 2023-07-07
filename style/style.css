@@ -71,6 +71,7 @@ p {
     background-color: red;
     color: white;
     cursor: pointer;
+    border-width: 0;
 }
 .continar-two{
     display: flex;
